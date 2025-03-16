@@ -7,7 +7,7 @@ To download the latest version of this project, click the link below:
 
 ### 1. Baidu Netdisk
 
-**[Download](https://pan.baidu.com/s/1ELXsgk-0HSb-sHcQXpORVQ?pwd=n7yn)**
+**[Download](https://pan.baidu.com/s/190gqqzdEqP5oIfrK8_z9rw?pwd=wqs9)**
 
 ### 2. MEGA
 
