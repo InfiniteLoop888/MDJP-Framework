@@ -1,6 +1,7 @@
 # MDJP-Framework
 
 To mitigate the impact of noisy data, we eliminate outlier samples with large errors from the dataset, ensuring stable model training.
+Since the Northern Territory dataset is approximately 40 times larger than the Guangdong Province dataset, it is recommended to perform training on a high-performance computer or cloud server.
 
 ## Download
 To download the latest version of this project, click the link below:
